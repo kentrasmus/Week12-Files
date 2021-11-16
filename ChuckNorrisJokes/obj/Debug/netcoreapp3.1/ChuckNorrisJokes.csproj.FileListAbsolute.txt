@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\bin\Debug\netcoreapp3.1\ChuckNorrisJokes.exe
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\bin\Debug\netcoreapp3.1\ChuckNorrisJokes.deps.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\bin\Debug\netcoreapp3.1\ChuckNorrisJokes.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\bin\Debug\netcoreapp3.1\ChuckNorrisJokes.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\bin\Debug\netcoreapp3.1\ChuckNorrisJokes.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\bin\Debug\netcoreapp3.1\ChuckNorrisJokes.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokes\obj\Debug\netcoreapp3.1\ChuckNorrisJokes.genruntimeconfig.cache

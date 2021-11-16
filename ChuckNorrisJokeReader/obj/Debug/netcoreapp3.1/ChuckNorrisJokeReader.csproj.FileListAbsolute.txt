@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\bin\Debug\netcoreapp3.1\ChuckNorrisJokeReader.exe
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\bin\Debug\netcoreapp3.1\ChuckNorrisJokeReader.deps.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\bin\Debug\netcoreapp3.1\ChuckNorrisJokeReader.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\bin\Debug\netcoreapp3.1\ChuckNorrisJokeReader.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\bin\Debug\netcoreapp3.1\ChuckNorrisJokeReader.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\bin\Debug\netcoreapp3.1\ChuckNorrisJokeReader.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\ChuckNorrisJokeReader\obj\Debug\netcoreapp3.1\ChuckNorrisJokeReader.genruntimeconfig.cache
